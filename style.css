@@ -679,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -777,8 +777,12 @@ h4 {
     background-color: #F3976C;
 }
 
+.tc-black {
+    color: #000000!important;
+}
+
 .tc-white {
-    color: #391609!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
